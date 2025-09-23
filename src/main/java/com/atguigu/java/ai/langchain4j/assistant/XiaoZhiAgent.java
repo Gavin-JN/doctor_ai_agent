@@ -9,7 +9,7 @@ import dev.langchain4j.service.spring.AiServiceWiringMode;
 @AiService(chatModel = "openAiChatModel",//大模型
         chatMemoryProvider = "chatMemoryProviderXiaoZhi",//实现聊天隔离
         tools = "appointmentTools",//方法调用
-        contentRetriever = "contentRetrieverXiaozhi"//配置向量存储 RAG
+        contentRetriever = "contentRetrieverXiaozhiPinecone"//配置向量存储 RAG
 )
 public interface XiaoZhiAgent {
 
