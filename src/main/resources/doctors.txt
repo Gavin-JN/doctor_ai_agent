@@ -1,0 +1,148 @@
+北京协和医院 医生信息
+
+科室：非手术科室 / 内科学系  
+张抒扬  
+杜斌  
+吴东  
+李雪梅  
+曾学军  
+陈嘉林  
+黄晓明  
+沙悦  
+徐娜  
+朱卫国  
+焦洋  
+张昀  
+李源杰  
+黄程锦  
+朱文玲  
+方全  
+严晓伟  
+刘震宇  
+
+科室：呼吸与危重症医学科  
+罗慰慈  
+朱元珏  
+黄席珍  
+林耀广  
+李龙芸  
+
+科室：消化内科  
+吴东  
+杨爱明  
+李景南  
+费贵军  
+李骥  
+
+科室：肾内科  
+李学旺  
+郑法雷  
+黄庆元  
+李雪梅  
+于晓初  
+
+科室：血液内科  
+武永吉  
+沈悌  
+单渊东  
+赵永强  
+周道斌  
+
+科室：风湿免疫科  
+唐福林  
+于孟学  
+张奉春  
+曾小峰  
+李梦涛  
+
+科室：感染内科  
+李太生  
+盛瑞媛  
+邓国华  
+刘正印  
+刘晓清  
+
+科室：全科医学科（普通内科）  
+曾学军 – 主任 / 全科医学系主任 / 教授 / 主任医师 / 博士研究生导师 :contentReference[oaicite:0]{index=0}  
+陈嘉林 – 主任医师 / 教授 :contentReference[oaicite:1]{index=1}  
+黄晓明 – 副主任 / 主任医师 / Professor :contentReference[oaicite:2]{index=2}  
+沙悦 – 副主任医师 / Associate Professor :contentReference[oaicite:3]{index=3}  
+徐娜 – 副主任医师 :contentReference[oaicite:4]{index=4}  
+朱卫国 – 主任医师 / 医疗保险管理处处长 / 硕士研究生导师 / Associate Professor :contentReference[oaicite:5]{index=5}  
+焦洋 – 系副主任 / 主任医师 / 教授 / Professor :contentReference[oaicite:6]{index=6}  
+张昀 – 副主任 / 副主任医师 / 硕士研究生导师 / Associate Professor :contentReference[oaicite:7]{index=7}  
+李源杰 – 副主任医师 / Associate Professor :contentReference[oaicite:8]{index=8}  
+黄程锦 – 副主任医师 / Associate Professor :contentReference[oaicite:9]{index=9}  
+
+科室：妇产科  
+郎景和 – 工程院院士 / 主任医师 / 教授 / 博士研究生导师 :contentReference[oaicite:10]{index=10}  
+沈铿 – 主任医师 / 教授 / 博士研究生导师 :contentReference[oaicite:11]{index=11}  
+朱兰 – 妇产科学系主任 / 主任医师 / 教授 / 博士研究生导师 :contentReference[oaicite:12]{index=12}  
+向阳 – 妇科肿瘤中心主任 / 主任医师 / 博士研究生导师 :contentReference[oaicite:13]{index=13}  
+孙智晶 – 普通妇科中心主任 / 副主任 / 主任医师 / 教授 / 博士研究生导师 :contentReference[oaicite:14]{index=14}  
+高劲松 – 产科中心主任 / 妇产科学系副主任 / 主任医师 / 博士研究生导师 :contentReference[oaicite:15]{index=15}  
+…  
+
+科室：骨科  
+邱贵兴 – 工程院院士 / 教授 / 主任医师 / 博士研究生导师 :contentReference[oaicite:16]{index=16}  
+王以朋 – 原北京协和医院副院长 / 教授 / 主任医师 / 博士研究生导师 :contentReference[oaicite:17]{index=17}  
+仉建国 – 骨科主任 / 教授 / 主任医师 / 博士研究生导师 :contentReference[oaicite:18]{index=18}  
+翁习生 – 教授 / 主任医师 / 博士研究生导师 :contentReference[oaicite:19]{index=19}  
+沈建雄 – 教授 / 主任医师 / 博士研究生导师 :contentReference[oaicite:20]{index=20}  
+张保中 – 教授 / 主任医师 / 博士研究生导师 :contentReference[oaicite:21]{index=21}  
+杨波 – 副主任 / 主任医师 / 教授 :contentReference[oaicite:22]{index=22}  
+张嘉 – 骨科副主任 / 教授 / 主任医师 / 硕士研究生导师 :contentReference[oaicite:23]{index=23}  
+
+科室：骨科常见疾病 主治医生门诊  
+蔡思逸 – 副主任医师 / Associate Professor :contentReference[oaicite:24]{index=24}  
+周熹 – 副主任医师 :contentReference[oaicite:25]{index=25}  
+翟吉良 – 副主任医师 :contentReference[oaicite:26]{index=26}  
+李晔 – 主任医师 / Professor :contentReference[oaicite:27]{index=27}  
+梁锦前 – 副主任医师 / 副教授 / 硕士研究生导师 / Associate Professor :contentReference[oaicite:28]{index=28}  
+庄乾宇 – 骨科主任助理 / 主任医师 / 教授 / 博士研究生导师 / Professor :contentReference[oaicite:29]{index=29}  
+鲁昕 – 主治医师 :contentReference[oaicite:30]{index=30}  
+陈峰 – 主治医师 :contentReference[oaicite:31]{index=31}  
+彭慧明 – 副主任医师 :contentReference[oaicite:32]{index=32}  
+姜鹏翔 – 主治医师 :contentReference[oaicite:33]{index=33}  
+
+科室：超声医学科  
+姜玉新  
+李建初  
+夏宇  
+吕珂  
+朱庆莉  
+
+科室：病案科  
+王怡  
+李乃适  
+周婧雅  
+庞成  
+白雪  
+
+科室：检验科  
+徐英春  
+李永哲  
+邱玲  
+杨启文  
+程歆琦  
+
+科室：放射科  
+冯逢  
+潘杰  
+宋伟  
+薛华丹  
+王怡宁  
+
+科室：核医学科  
+李方  
+霍力  
+林岩松  
+朱朝晖  
+崔瑞雪  
+
+科室：药剂科  
+李大魁  
+张继春梅  
+丹朱珠  
+张珠  
+张波  
