@@ -271,7 +271,7 @@ ENTRYPOINT ["java", "-jar", "app.jar"]
 如有问题或建议，请通过以下方式联系：
 
 - 项目 Issues
-- 邮箱：[your-email@example.com]
+- 邮箱：[2953301585@qq.com]
 
 ---
 
