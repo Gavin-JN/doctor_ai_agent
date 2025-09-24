@@ -147,8 +147,12 @@ CREATE DATABASE guiguxiaozhi;
 ```bash
 mvn spring-boot:run
 ```
+5. 前端项目启动
+```
+npm run dev
+```
 
-5. **访问应用**
+6. **访问应用**
 
 - 应用地址：http://localhost:8080
 - API 文档：http://localhost:8080/doc.html
