@@ -37,6 +37,7 @@
             <version>3.5.3</version>
             <scope>test</scope>
         </dependency>
+<!--        接口调试工具-->
         <dependency>
             <groupId>com.github.xiaoymin</groupId>
             <artifactId>knife4j-openapi3-jakarta-spring-boot-starter</artifactId>
@@ -69,56 +70,47 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-data-mongodb</artifactId>
         </dependency>
+<!--    lombok    -->
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <scope>provided</scope>
         </dependency>
 
+<!--    my-sql    -->
         <dependency>
             <groupId>com.mysql</groupId>
             <artifactId>mysql-connector-j</artifactId>
         </dependency>
 
+<!--  my-batis      -->
         <dependency>
             <groupId>com.baomidou</groupId>
             <artifactId>mybatis-plus-spring-boot3-starter</artifactId>
             <version>3.5.7</version>
         </dependency>
 
+<!--text-embedding-v3 embeddingModel-->
         <dependency>
             <groupId>dev.langchain4j</groupId>
             <artifactId>langchain4j-community-dashscope-spring-boot-starter</artifactId>
             <version>1.0.0-beta3</version>
         </dependency>
 
+<!--        向量存储数据库Pinecone-->
         <dependency>
             <groupId>dev.langchain4j</groupId>
             <artifactId>langchain4j-pinecone</artifactId>
         </dependency>
 
-<!--        <dependency>-->
-<!--            <groupId>dev.langchain4j</groupId>-->
-<!--            <artifactId>langchain4j-easy-rag</artifactId>-->
-<!--            <version>0.34.0</version>-->
-<!--        </dependency>-->
-
-
-
-
-<!--        <dependency>-->
-<!--            <groupId>dev.langchain4j</groupId>-->
-<!--            <artifactId>langchain4j-hugging-face</artifactId>-->
-<!--            <version>1.0.0-beta3</version>-->
-<!--        </dependency>-->
-
-
-
+<!--        流式输出-->
         <dependency>
-            <groupId>org.apache.tika</groupId>
-            <artifactId>tika-parser-ocr-module</artifactId>
-            <version>3.0.0</version>
-            <scope>provided</scope> <!-- 或直接删除 -->
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-webflux</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>dev.langchain4j</groupId>
+            <artifactId>langchain4j-reactor</artifactId>
         </dependency>
 
     </dependencies>
