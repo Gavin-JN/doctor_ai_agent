@@ -1,0 +1,33 @@
+{
+  "name": "xiaozhi-frontend",
+  "version": "1.0.0",
+  "description": "硅谷小智 - 北京协和医院智能客服前端",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js",
+    "build": "echo 'No build process needed for static files'",
+    "serve": "http-server . -p 3000 -o",
+    "install-deps": "npm install"
+  },
+  "keywords": [
+    "chat",
+    "medical",
+    "ai",
+    "frontend",
+    "hospital"
+  ],
+  "author": "硅谷小智团队",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
